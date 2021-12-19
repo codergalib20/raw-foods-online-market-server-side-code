@@ -78,6 +78,11 @@ async function run() {
       const result = await allUsersCollections.insertOne(order);
       res.json(result);
     });
+    app.post('/foods', async(req, res) => {
+      const food = req.body;
+      const result = await foodCollection.insertOne(food);
+      res.json(result);
+    });
     app.post("/review", async (req, res) => {
       const name = req.body.name;
       const email = req.body.email;
