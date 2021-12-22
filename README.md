@@ -1,5 +1,9 @@
 # Raw Food Online market
 
+
+## for admin   email : ii@gmail.com         password : iiiiii
+
+
 [live link](https://raw-foods-market-online.web.app) || 
  [server side code](https://github.com/codergalib20/raw-foods-online-market-server-side-code) || 
  [client side coed](https://github.com/codergalib20/raw-food-market-client-side)
